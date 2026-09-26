@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix Co-opSahayak",
+  "description": "AI-Powered Cooperative \u0026 Legal Helpdesk for Indian cooperative society members with RAG, query routing, multilingual assistance, and grievance letter generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
